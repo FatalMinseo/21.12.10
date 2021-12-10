@@ -1,4 +1,4 @@
-package Exam04;
+package Exam04; // 상속
 
 public abstract class Employee {
 	String empno;
